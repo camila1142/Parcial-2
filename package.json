@@ -8,11 +8,20 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "��#\u0000 \u0000P\u0000a\u0000r\u0000c\u0000i\u0000a\u0000l\u0000-\u00002\u0000\r\u0000 \u0000#\u0000 \u0000P\u0000a\u0000r\u0000c\u0000i\u0000a\u0000l\u0000-\u00002\u0000\r\u0000 \u0000",
   "dependencies": {
+    "@supabase/supabase-js": "^2.49.4",
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
-    "pg": "^8.15.1"
-  }
+    "pg": "^8.15.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camila1142/Parcial-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/camila1142/Parcial-2/issues"
+  },
+  "homepage": "https://github.com/camila1142/Parcial-2#readme"
 }
